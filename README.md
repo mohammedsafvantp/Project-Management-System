@@ -1,6 +1,6 @@
 A scalable and production-ready Project Management System built using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
-This application enables organizations and teams to efficiently manage projects, assign tasks, track progress, and collaborate in a structured and secure environment.
+This application enables organizations and teams to efficiently manage projects and collaborate in a structured and secure environment.
 
 This system is designed following modern software architecture principles including:
 ====================================================================================
@@ -18,7 +18,7 @@ Authentication & Security
 
 *JWT-based authentication
 *Password hashing with bcrypt
-*Role-based access control (Admin / Manager / Member)
+*Role-based access control 
 *Protected API routes
 *Environment variable configuration
 *CORS security setup
@@ -27,7 +27,7 @@ Tech Stack
 ==========
 Frontend
 ---------
-*React.js (Functional Components + Hooks)
+*React.js 
 *Javascript
 *React Router DOM
 *Axios
@@ -39,6 +39,5 @@ Backend
 *MongoDB
 *Node.js
 *Express.js
-*MongoDB (Mongoose ODM)
 *JSON Web Token (JWT)
 *Express Validator
